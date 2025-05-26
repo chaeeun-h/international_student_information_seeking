@@ -1,5 +1,4 @@
-# 📘 “I Still Need Your Help”: Online Information Seeking Behavior
-of International Students in the United States on Reddi
+# 📘 “I Still Need Your Help”: Online Information Seeking Behavior of International Students in the United States on Reddit
 
 This project investigates how international students in the United States seek information online, particularly in response to the challenges brought on by the COVID-19 pandemic. We focus on the r/f1visa subreddit as a case study to explore evolving patterns and unmet needs in online communities.
 
