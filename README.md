@@ -19,15 +19,15 @@ Objective: Examine the online information-seeking behavior of international stud
 
 ## 📈 Key Findings
 
-Pre-Pandemic: Most discussions revolved around employment and career-related concerns.
+### Pre-Pandemic: Most discussions revolved around employment and career-related concerns.
 
-During Pandemic: Shift toward topics like:
+### During Pandemic: Shift toward topics like:
 
   - Travel restrictions and visa issues.
   - Financial difficulties.
   - Entry and re-entry concerns.
   
-Unmet Information Needs:
+### Unmet Information Needs:
   - Many questions were repeated over time, indicating persistent gaps in reliable information.
   - Similar patterns across different users’ queries suggest a need for more accessible, centralized resources.
 
