@@ -3,7 +3,8 @@
 This project investigates how international students in the United States seek information online, particularly in response to the challenges brought on by the COVID-19 pandemic. We focus on the r/f1visa subreddit as a case study to explore evolving patterns and unmet needs in online communities.
 
 ## 🔍 Key Highlights
-Objective: Examine the online information-seeking behavior of international students in the U.S., especially during the COVID-19 pandemic.
+
+### Objective: Examine the online information-seeking behavior of international students in the U.S., especially during the COVID-19 pandemic.
 
   ### Motivation:
 
